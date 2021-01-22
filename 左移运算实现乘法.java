@@ -16,5 +16,7 @@ public class 左移运算实现乘法 {
         System.out.println(number<<3);
 
         System.out.println(number<<4);
+
+        System.out.println(number<<5);
     }
 }
